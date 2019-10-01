@@ -1,0 +1,3 @@
+isi FFI_Demo = {
+    "tes_double" : ffi('int double_input(int)','./target/debug/libdouble_input.dylib')
+};

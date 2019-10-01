@@ -1,2 +1,3 @@
-isi test_double = ffi('int double_input(int)','./target/debug/libdouble_input.dylib');
-tulis(test_double(2));
+muat('./lib.ina');
+
+tulis('jalankan fungsi ffi FFI_Demo.tes_double(2) : ',FFI_Demo.tes_double(2));
