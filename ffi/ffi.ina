@@ -1,0 +1,5 @@
+muat('./lib.ina');
+
+tulis('jalankan fungsi ffi FFI_Demo.tes_double(123) : ',FFI_Demo.tes_double(123));
+FFI_Demo.test_main();
+tulis('jalankan fungsi ffi kembali_b() ',FFI_Demo.test_kembalikan_nilai_b());

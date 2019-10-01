@@ -1,0 +1,9 @@
+isi a = 0;
+ulang(a < 10){
+    tulis("ulang",a);
+    a++;
+}
+tulis("-------------------");
+untuk(isi b=0;b < 10; b++){
+    tulis("untuk",b);
+}

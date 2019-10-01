@@ -1,0 +1,8 @@
+[package]
+name = "rust-ffi"
+version = "0.1.0"
+authors = ["Ibnu Yahya <anak10thn@gmail.com>"]
+
+[lib]
+name = "double_input"
+crate-type = ["dylib"]

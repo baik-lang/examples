@@ -1,0 +1,5 @@
+isi sd = ffi('void *get_my_struct_descr(void)','./struct.inadl')();
+isi s;
+isi o = s2o(s, sd);
+tulis(s2o(s, sd).a);
+tulis(sd);

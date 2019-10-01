@@ -1,0 +1,7 @@
+
+isi LSYM = './test.inadl',
+FFI_Demo = {
+    "tes_double" : ffi('double test_double(double)',LSYM),
+    "test_main" : ffi('void main()',LSYM),
+    "test_kembalikan_nilai_b" : ffi('double kembali_b()',LSYM),
+}
