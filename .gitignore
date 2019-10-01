@@ -5,7 +5,7 @@ elf/*
 *.inadl
 *.o
 *.inac
-docs/example/ffi/*.inadl
-docs/example/ffi/*.o
+*.inadl
+*.o
 Cargo.lock
-docs/example/ffi/rust-ffi/target
+rust-ffi/target
