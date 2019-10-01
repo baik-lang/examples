@@ -1,3 +1,4 @@
 isi FFI_Demo = {
-    "tes_double" : ffi('int double_input(int)','./target/debug/libdouble_input.dylib')
+    "tes_double" : ffi('int double_input(int)','./target/debug/libdouble_input.dylib'),
+    "tes_echo" : ffi('char* echo(char*)','./target/debug/libdouble_input.dylib')
 };

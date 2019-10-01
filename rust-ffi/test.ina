@@ -1,3 +1,4 @@
 muat('./lib.ina');
 
 tulis('jalankan fungsi ffi FFI_Demo.tes_double(2) : ',FFI_Demo.tes_double(2));
+tulis('jalankan fungsi ffi FFI_Demo.tes_echo("ping") : ',FFI_Demo.tes_echo("ping"));
