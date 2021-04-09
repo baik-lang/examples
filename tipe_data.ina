@@ -1,5 +1,0 @@
-tulis("tipe data '1' adalah",tipe(1));
-tulis("tipe data \"halo\" adalah",tipe("halo"));
-tulis("tipe data 'benar' adalah",tipe(benar));
-tulis("tipe data [1,2,3,4] adalah",tipe([1,2,3,4]));
-tulis("tipe data {\"a\":1} adalah",tipe({"a":1}));

@@ -1,3 +1,0 @@
-muat("../../lib/api_berkas.ina");
-// Baca file
-tulis(Berkas.baca("./tulis.ina"));
