@@ -1,0 +1,2 @@
+isi a = 1;
+tulis("nilai a adalah",a);

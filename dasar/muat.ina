@@ -1,0 +1,4 @@
+muat("../../lib/api_math.ina");
+
+tulis(Math.pow(10,2));
+tulis(Math.random());
