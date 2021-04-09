@@ -1,0 +1,10 @@
+# Contoh program untuk menghitung luas lingkaran
+# @created Billal Fauzan
+
+tulis "Masukan nilai panjang: "
+masuk var_panjang
+tulis "Masukan nilai lebar: "
+masuk var_lebar
+
+luas = var_panjang * var_lebar
+tulis "Luas: ", luas, "\n"
